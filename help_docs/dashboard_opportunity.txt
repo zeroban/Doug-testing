@@ -1,0 +1,38 @@
+Q: Why aren't shifts visible to volunteers even though shift visibility is turned on?
+A: 
+- Check if the Preview Shifts toggle is turned off.
+- To enable it:
+  1. Navigate to the Opportunity Dashboard.
+  2. Click on Page Settings.
+  3. Scroll down and ensure the Preview Shifts toggle is turned ON.
+
+Q: Can I create a live opportunity without any shifts and allow volunteers to record their own hours?
+A: 
+Yes. Volunteers can sign up and manually add their hours once enrolled.
+Steps for Volunteers:
+1. After signing up, go to their profile icon (top right) and select "My Hours Worked."
+2. Click the green "Add Hours Worked" button, select the opportunity, and manually enter hours.
+Bonus Tip: Make sure the "Self Track Hours" option is enabled in Attendance Settings under the opportunity’s General Settings.
+
+Q: I can't see the person I want to assign as the new Opportunity Manager. What should I do?
+A:
+Make sure the person has the Event Manager role.
+Steps:
+1. Go to Roles & Qualifications on the Opportunity Dashboard.
+2. Select Event Manager > Take Action > Edit Volunteers.
+3. Assign the person as an Event Manager and save changes. They will now appear in the Primary Manager dropdown in Page Settings.
+
+Q: How do I bulk assign roles to volunteers?
+A:
+Roles can only be assigned in bulk from the opportunity page.
+Steps:
+1. Open the opportunity page and click Opportunity List.
+2. Select volunteers to assign roles to.
+3. Click the Actions button > Bulk Assign > Roles.
+
+Q: How can a volunteer change their email address without creating a new profile?
+A:
+Volunteers can update their email address themselves.
+Steps:
+1. Log in and click the profile icon.
+2. Select "Edit Profile" > scroll to Profile Contact > click "Edit Username" next to the email address.

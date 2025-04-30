@@ -1,0 +1,45 @@
+Q: How do I run a report showing volunteer hours by week?
+A:
+Steps:
+1. Navigate to the opportunity page.
+2. Click on the "Reports & Imports" tab.
+3. Under "Hours Worked by Volunteer," select "Total by Week" from the dropdown.
+4. Click the "Download" button to generate the report.
+
+Q: How can I add volunteer hours if there is no live opportunity?
+A:
+Steps:
+1. Go to the "Volunteers" tab on the organization page and search for the volunteer.
+2. In their profile, click "Hours Worked."
+3. Click "Add Hours Worked."
+4. Select the opportunity, enter the hours worked, and submit.
+
+Q: How do I set up shift reminder automations?
+A:
+There are two levels of shift reminder automations:
+
+- Organization Level:
+  1. Navigate to Email Communication > Manage Automation.
+  2. Click "Create New Automation" and select "Pre/Post Shift."
+  3. Set the recipient(s), timing, and automation name.
+
+- Opportunity Level:
+  1. Go to the specific opportunity.
+  2. Click Email Communications > Manage Automations.
+  3. Click "Create New Automation," select "Pre/Post Shift," and follow the same steps.
+
+Q: How do I create or send an email?
+A: 
+To create and send an email while on the organization level, follow these steps: 
+  1. Navigate to the "Volunteers" tab at the organization level.
+  2. Filter or check the box next to the volunteers you would like to send the email to.
+  3. Once the desired volunteers are selected, click the "Actions" button.
+  4. In the dropdown menu, hover over the "Send" button, and on the right-hand side of it, click "Send Message."
+You can then design the email to look and say what you need it to. While in the pop-up window, you can also select a template you have created on the right-hand side.
+
+To create and send an email while on the opportunity level, follow these steps: 
+  1. While on the opportunity level, navigate to the "Volunteers" tab.
+  2. Filter or check the box next to the volunteers you would like to send the email to.
+  3. Once the desired volunteers are selected, click the "Actions" button.
+  4. In the dropdown menu, hover over the "Send" button, and on the right-hand side of it, click "Send Message."
+You can then design the email to look and say what you need it to. While in the pop-up window, you can also select a template you have created on the right-hand side.

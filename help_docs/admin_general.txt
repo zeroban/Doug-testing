@@ -1,0 +1,92 @@
+Q: How can an admin change the account status of a volunteer?
+A:
+Unfortunately, there is not a direct way to update the account status. That status is tied to the "Active Contribution Status" section. If they do not have hours worked within the timeframe entered in there, then they would be considered inactive. There is no manual way to update or change their account status.
+
+What you can do is create a tag category for your own active/inactive status that you can use outside of whether hours worked are being recorded or not.
+
+Q: How do I create an new user?
+A:
+To add a new volunteer or admin to your organization, follow these steps:
+1. Navigate to the "Volunteers" tab on the left-hand side of your organization page.
+2. Click on the green "Volunteers" button located at the top right of the page.
+3. In the dropdown menu, select "Add Volunteer Individually".
+4. Enter their name and email address.
+5. (For admin accounts) Once their account is created, locate their profile on the volunteer page.
+6. Click on their account and scroll down the left-hand side of the pop-up window to the Permissions section.
+7. Assign them the required permissions.
+
+These steps will allow you to effectively manage and integrate new members into your organization's operations.
+
+Q: How do I create an opportunity?
+A:
+Here’s a quick step-by-step guide on how to create an opportunity in the system:
+1. Log in to your admin account for your organization.
+2. On the left-hand side of your dashboard, click on the "Opportunities" tab to go to the Opportunities page.
+3. Click the green "Create Opportunity" button at the top right of the page.
+4. Fill in the required details, including:
+   - Opportunity Name
+   - Start Date
+   - End Date
+5. Once all information is entered, click the green "Save" button to create the opportunity.
+6. After saving, you’ll be redirected back to the Opportunities page. Locate and click on your new opportunity to open it.
+7. You’ll land on the Opportunity Recruitment page, where you can customize the look of the page.
+
+
+Q: How can a volunteer delete there account?
+A:
+To delete your volunteer account, please follow these steps:
+1. Log in to your account using a computer. (Note: account deletion is not available through the mobile app.)
+2. Click on your profile icon at the top right corner of the page.
+3. In the dropdown menu, select “Edit Profile.”
+4. This will take you to the Profile Details page. On the left-hand side, just below your profile image, you’ll see an option labeled “Delete My Account.”
+5. Click this option if you wish to permanently delete your account and all associated data.
+
+⚠️ Please note: Once an account is deleted, this action cannot be undone.
+
+Screenshot: https://share.bloomerang.com/o0ulmBeO
+
+Q: How do I create tags?
+A:
+If you’d like to create additional tags, follow these steps:
+1. Navigate to the "Tags" tab at the organization level of your database.
+2. Click on the green "Categories" tab in the top right corner.
+3. Fill in the "Category" and "Category Nickname" fields to name your tag.
+4. In the "Allocated Tags" section, specify if it will be a single or multiple tag.
+5. Use the "Volunteer Visibility" section to decide whether volunteers can see this tag.
+6. Finally, enter the desired tag in the blank box at the bottom.
+
+Q: How do I create an automation?
+A:
+Organization Level Automation Setup:
+1. Navigate to the "Email Communication" section.
+2. From the dropdown menu, select "Manage Automation."
+3. Click the green “Create New Automation” button in the top right corner.
+4. In the pop-up, select the “Get Started” button next to the Pre/Post Shift option.
+5. Choose an email template (custom or default “Pre-Shift Reminder”).
+6. Select the recipient(s) for the email.
+7. Set the timing for when the automation should run.
+8. Give the automation a clear, descriptive name.
+
+Opportunity Level Automation Setup:
+1. Navigate to the specific opportunity.
+2. Click on "Email Communications."
+3. Select "Manage Automations" on the left-hand side.
+4. Click “Create New Automation” and choose "Add Automation."
+   - Optional: Copy existing automations from organization level or another opportunity.
+5. In the pop-up, click “Get Started” under the Pre/Post Shift option.
+6. Select an email template.
+7. Choose the email recipient(s).
+8. Set the automation timing.
+9. Provide a clear and descriptive name for the automation.
+
+Q: How do I assign someone as the primary event manager for an opportunity?
+A:
+To assign someone as the primary event manager:
+1. Go to the opportunity you want to manage.
+2. Click on the Roles and Qualifications tab.
+3. Ensure that the person is assigned the Event Manager role.
+4. Return to the Recruitment tab.
+5. On the public page, click on Page Settings.
+6. At the top of the settings page, look for the Primary Manager dropdown and select the individual.
+
+If the person does not appear, double-check in the Roles and Qualifications tab to confirm they are assigned the Event Manager role.

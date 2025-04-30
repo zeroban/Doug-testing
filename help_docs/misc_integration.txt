@@ -1,0 +1,51 @@
+Q: How do I turn off notifications for donor integration?
+A:
+Steps:
+1. Go to General Settings > Notification Settings on the organization dashboard.
+2. Scroll to the "Sync Status" section.
+3. Toggle off both email and bell notifications for integration updates.
+
+Q: What volunteer activity syncs with Donor?
+A:
+When volunteer activity syncs with Donor, it creates an interaction on the constituent's timeline.
+This includes the opportunity name and hours worked.
+
+Q: Why can’t a volunteer see an opportunity on the mobile app?
+A:
+Ensure the opportunity is set to "Live."
+Steps:
+1. Open the opportunity.
+2. Click the mobile device icon in the top-right corner.
+3. Turn the visibility toggle on.
+
+Q: How do I add a waiver for volunteers?
+A:
+Steps:
+1. Navigate to Recruitment > Form Questions on the organization dashboard.
+2. Enable the "Organization Waiver" option.
+3. Ensure "Form Questions" are turned on in Signup Workflow Settings to include the waiver in the sign-up process.
+
+
+Q: How do I connect Bloomerang Donor to Bloomerang Volunteer?
+A:
+We have a great help article that goes over how to connect these two systems. It also goes over what kind of data will flow between the two systems.
+About Bloomerang Volunteer: https://support.bloomerang.co/s/article/13000100822
+
+Q: How do I create a shift?
+A: 
+To create a shift, follow these steps:
+
+1. First, create a role to go along with the shift. To do this, navigate to the opportunity and click on the "Roles and Qualifications" tab.
+2. On the "Roles and Qualifications" page, click the green "New Role" button at the top right. From the dropdown menu, select "Create New Role" or "Copy Role from Another Opportunity."
+3. If you choose to create a new role, make sure to fill in all the required fields. Be sure to click the green "Save" button once you've filled everything in to save your changes.
+
+Once the roles are created, follow these steps:
+
+4. Navigate to the "Schedule" tab.
+5. Click the green "Shifts" button.
+6. Click the "Add Roles" to this shift, then select the roles you want associated with this shift.
+7. Fill in the necessary fields, including the time and date of the shift.
+8. Once everything is set up the way you want, click the green "Done" button.
+
+Your shift will now be created!
+
