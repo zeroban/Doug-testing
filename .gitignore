@@ -1,0 +1,11 @@
+# Ignore the .env file (to protect sensitive info)
+.env
+
+# Ignore the help_documents folder
+help_docs/
+
+# Ignore Python bytecode files
+*.pyc
+
+# Ignore other temporary or system files
+.DS_Store

@@ -3,10 +3,16 @@ import discord
 from discord.ext import commands
 from dotenv import load_dotenv
 from help_response import get_best_match_response
+from pymongo import MongoClient
 
 # Load the .env file
 load_dotenv()
 TOKEN = os.getenv("DISCORD_TOKEN")
+
+# MongoDB setup
+client = MongoClient(os.getenv("MONGO_URI"))
+db = client["help_bot"]
+qa_collection = db["qa"]
 
 # Set up Discord bot
 intents = discord.Intents.default()
